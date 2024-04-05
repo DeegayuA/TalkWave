@@ -7,7 +7,8 @@ Here's a GitHub README.md tailored for your React-based chat app, Talkwave. I've
 A modern, real-time chat application built with React. Connect with friends, colleagues, or communities seamlessly and intuitively.
 
 
-https://github.com/DeegayuA/TalkWave/assets/63475473/62c59f29-5f21-4c84-83ed-ddec222ba8cd
+https://github.com/DeegayuA/TalkWave/assets/63475473/87dd3f39-a1e3-476e-86fc-f9b27d4c5a1c
+
 [Website Launch Plan.pdf](https://github.com/DeegayuA/TalkWave/files/14880214/Website.Launch.Plan.pdf)
 
 
