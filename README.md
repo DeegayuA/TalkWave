@@ -8,6 +8,8 @@ A modern, real-time chat application built with React. Connect with friends, col
 
 
 https://github.com/DeegayuA/TalkWave/assets/63475473/62c59f29-5f21-4c84-83ed-ddec222ba8cd
+[Uploading Website Launch Plan.pdf…]()
+
 
 
 **Features**
