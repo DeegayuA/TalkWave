@@ -1,5 +1,3 @@
-Here's a GitHub README.md tailored for your React-based chat app, Talkwave. I've included sections to highlight its core features, setup instructions, and ways for others to contribute.
-
 **README.md**
 
 # Talkwave
